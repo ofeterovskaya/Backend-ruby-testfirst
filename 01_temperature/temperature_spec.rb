@@ -61,7 +61,6 @@ describe "temperature conversion functions" do
       # and http://en.wikipedia.org/wiki/Double_precision_floating-point_format
       # Also, try "puts 0.5 - 0.4 - 0.1" -- pretty crazy, right?
     end
-
   end
 
 end
